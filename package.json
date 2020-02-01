@@ -1,7 +1,7 @@
 {
   "name": "chat-anywhere-landing",
   "version": "1.0.0",
-  "description": "Landing page for Chat Anywhere [chrome extensiom](url)",
+  "description": "Landing page for Chat Anywhere [chrome extension](url)",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d .",
